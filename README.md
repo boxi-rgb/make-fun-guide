@@ -13,9 +13,9 @@ It was written for the bounty
 across the top 50 entries, closing 2026-11-21 10:30 UTC — but every step below
 works for any bounty on the board.
 
-> **Start here — sign up through my link:** <https://make.fun/r/rgx81ba6>
+> **Start here — sign up through my link:** <https://make.fun/r/cwqsp23g>
 >
-> Referral code: `rgx81ba6`
+> Referral code: `cwqsp23g`
 
 ## What you will walk away with
 
@@ -60,7 +60,7 @@ That is the whole list. Everything else is a command below.
 
 ## Step 1 — Create your account
 
-1. Open <https://make.fun/r/rgx81ba6> and click **Sign in** at the top right.
+1. Open <https://make.fun/r/cwqsp23g> and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. Signing in with a
    wallet sends no transaction and costs nothing.
 3. Open your profile (the avatar, top right) and fill it in: a username, a picture, a
@@ -235,7 +235,7 @@ never do. Your link, what each reward is worth right now, and everything you hav
 earned are on the **Referrals** tab of your profile.
 
 If this guide helped, signing up through
-[my link](https://make.fun/r/rgx81ba6) (code `rgx81ba6`) is a nice way to say thanks.
+[my link](https://make.fun/r/cwqsp23g) (code `cwqsp23g`) is a nice way to say thanks.
 
 ## Let your agent do the whole thing
 
@@ -302,4 +302,4 @@ credentials, e-mail addresses, and home paths before upload, and
 ---
 
 <sub>Written for the make.fun community. Sign up with my referral link:
-https://make.fun/r/rgx81ba6 · code `rgx81ba6`</sub>
+https://make.fun/r/cwqsp23g · code `cwqsp23g`</sub>
